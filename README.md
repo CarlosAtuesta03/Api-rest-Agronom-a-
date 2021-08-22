@@ -2,7 +2,7 @@
 
 ## Requerido:
 ```
-nodej
+nodejs
 ```
 ```
 postgresql 
